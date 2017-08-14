@@ -1,0 +1,9 @@
+.flickr-mini-gallery{ }
+#fmg-float-img{position: absolute; padding: 5px; background: black; -moz-border-radius: 2px; -webkit-border-radius: 2px; top:0; left:0; z-index: 50; display: none;}
+#fmg-float-img img{padding:0; margin: 0;}
+#fmg-float-img .fmg-description{display:none; color:#ccc; margin: 5px 0; font-size: 12px;}
+.flickr-mini-gallery-thumb {
+height: 133px !important;
+width: 178px;
+margin: 10px 8px 5px 8px;
+border: 1px solid #D1D1D1;
